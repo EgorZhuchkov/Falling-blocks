@@ -1,2 +1,2 @@
 # Falling-blocks
-Simple 2D arcade game. Build with help of tutorial.
+Simple 2D arcade game. Built with help of tutorial.
